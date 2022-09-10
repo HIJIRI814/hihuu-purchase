@@ -31,8 +31,8 @@
           >
         </p>
       </div>
-      <img src="/img/mary.png" alt="" class="mary" style="grid-area: char1" />
-      <img src="/img/renko.png" alt="" class="renko" style="grid-area: char2" />
+      <img src="/img/mary.png" alt="" class="mary" style="grid-area: char2" />
+      <img src="/img/renko.png" alt="" class="renko" style="grid-area: char1" />
       <div class="video" style="grid-area: movie">
         <iframe
           width="560"
